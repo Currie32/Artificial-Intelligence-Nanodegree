@@ -4,7 +4,7 @@ game_agent.ipynb: my code.
 
 heuristic_analysis.pdf: my analysis the results of my agent.
 
-research_review.pdf:a one page summary of an excellent game playing agent - AlphaGo.
+research_review.pdf: a one page summary of an excellent game playing agent - AlphaGo.
 
 # Build a Game-playing Agent
 
