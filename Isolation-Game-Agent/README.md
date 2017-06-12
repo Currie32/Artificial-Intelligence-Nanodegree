@@ -1,3 +1,8 @@
+## To find my work the easiest:
+
+game_agent.ipynb contains my code.
+heuristic_analysis.pdf contains my analysis the results of my agent.
+research_review.pdf is a one page summary of an excellent game playing agent - AlphaGo.
 
 # Build a Game-playing Agent
 
