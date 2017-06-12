@@ -1,4 +1,14 @@
 
+### To find my work the easiest:
+
+my_air_cargo_problems.py: my code
+
+my_planning_graph.py: my code
+
+heuristic_analysis.pdf: analysis of the results of my code
+
+research_review.pdf: summary of three advancements in the field of AI planning and search
+
 # Implement a Planning Search
 
 ## Synopsis
