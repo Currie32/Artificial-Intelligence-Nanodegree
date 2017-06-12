@@ -1,3 +1,5 @@
+Note: view a 'solution' file to see my code for this project.
+
 # Artificial Intelligence Nanodegree
 ## Introductory Project: Diagonal Sudoku Solver
 
