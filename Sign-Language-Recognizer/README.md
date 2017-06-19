@@ -1,4 +1,4 @@
-To complete this project, I added the required code to the asl_recognizer, my_model_selectors, my_recognizer files.
+Note: To complete this project, I added the required code to the asl_recognizer, my_model_selectors, my_recognizer files.
 
 # Artificial Intelligence Engineer Nanodegree
 ## Probabilistic Models
